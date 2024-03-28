@@ -1,3 +1,9 @@
+/*
+Name: Mohamed alaa eldeen asmai ibrahim       ID: 20230346
+Name: Abdelrahman Ashraf Mohamed Mostafa      ID: 20230610
+Name: Mostafa Abdelgalel Ahmed salama         ID: 20230403
+*/
+
 #include <iostream>
 #include "Image_Class.h"
 #include <string>
