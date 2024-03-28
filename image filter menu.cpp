@@ -191,7 +191,7 @@ Image  inverted_image (const string &imagename){
         for (int j = 0; j < image.height; ++j) {
             for (int k = 0; k < 3; ++k) {
                 pixel_color = image.getPixel(i,j,k);
-                inverted_color = 0 - pixel_color;
+                inverted_color = 255 - pixel_color;
                 image(i,j,k) = inverted_color;
             }
         }
